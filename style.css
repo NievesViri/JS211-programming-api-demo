@@ -1,0 +1,56 @@
+body {
+
+    
+  }
+  
+  button {
+    padding: 10px;
+    border-radius: 10px;
+    font-family:monospace;
+    font-size: 50px;
+    margin: 10px 20px 30px 20px;
+  }
+  
+  #pokemon1 {
+    background-color: rgb(20, 83, 146);
+    color: white;
+    
+  }
+  
+  #pokemon2 {
+    background-color: rgb(118, 56, 45);
+    color: white;
+  }
+  
+  #fight {
+    background-color: rgb(231, 229, 147);
+    color: rgb(0, 0, 0);
+  }
+  
+  #poke {
+    margin-top: 5%;
+    /* margin-left: 200px; */
+  }
+  
+  ul {
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+    margin-top: 70px;
+    margin-left:auto;
+  }
+  Footer
+  © 2022 GitHub, Inc.
+  Footer navigation
+  Terms
+  Privacy
+  Security
+  Status
+  Docs
+  Contact GitHub
+  Pricing
+  API
+  Training
+  Blog
+  About
+  
