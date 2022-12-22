@@ -27,10 +27,7 @@ body {
     color: rgb(0, 0, 0);
   }
   
-  #poke {
-    margin-top: 5%;
-    /* margin-left: 200px; */
-  }
+
   
   ul {
     display: flex;

@@ -36,7 +36,7 @@ const pokemon1 = () => {
   Attack: ${firstPlayer.stats[1].base_stat} <br> 
   Defense: ${firstPlayer.stats[2].base_stat}
     `;
-  // name.appendChild(nameText);
+
   console.log(firstPlayer);
   img.src =
     firstPlayer.sprites.versions["generation-iv"][
@@ -56,7 +56,7 @@ const pokemon2 = () => {
   Attack: ${secondPlayer.stats[1].base_stat} <br> 
   Defense: ${secondPlayer.stats[2].base_stat}
     `;
-  // name.appendChild(nameText);
+
   console.log(secondPlayer);
   img.src =
     secondPlayer.sprites.versions["generation-iv"][
