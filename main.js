@@ -1,5 +1,5 @@
 let firstPlayer;
-let backArray;
+
 let secondPlayer;
 
 const list = document.querySelector("ul");
@@ -77,7 +77,7 @@ const startFight = () => {
     window.alert(`Pokemon: ${secondPlayer.species.name} Won!`);
   } else if (poke1Info === poke2Info) {
     window.alert(
-      `Both ${firstPlayer.species.name} & ${secondPlayer.species.name} fainted!`
+      `Both ${firstPlayer.species.name} & ${secondPlayer.species.name} Tied!!`
     );
   }
 };

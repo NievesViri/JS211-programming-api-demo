@@ -1,16 +1,24 @@
 body {
-
+background-image: url(./newimg.jpg);
     
   }
   
   button {
+    margin: auto;
     padding: 10px;
     border-radius: 10px;
     font-family:monospace;
     font-size: 50px;
     margin: 10px 20px 30px 20px;
   }
-  
+  .title{
+    margin: 5% auto;
+    text-align: center;
+    color: rgb(177, 8, 8);
+    border: 15px dotted;
+    font-size: 25px;
+    
+  }
   #pokemon1 {
     background-color: rgb(20, 83, 146);
     color: white;
@@ -23,18 +31,21 @@ body {
   }
   
   #fight {
-    background-color: rgb(231, 229, 147);
-    color: rgb(0, 0, 0);
+    background-color: rgb(227, 36, 36);
+    color: white;
   }
   
 
   
   ul {
+    list-style: none;
     display: flex;
     flex-direction: row;
     gap: 300px;
     margin-top: 70px;
     margin-left:auto;
+    color: rgb(21, 229, 17);
+    
   }
   Footer
   © 2022 GitHub, Inc.
