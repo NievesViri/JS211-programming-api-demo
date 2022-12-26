@@ -27,6 +27,7 @@ const loadPosts2 = () => {
     });
 };
 
+
 const pokemon1 = () => {
   const div = document.createElement("div");
   const img = document.createElement("img");
